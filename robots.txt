@@ -1,1 +1,1 @@
-Sitemap: https://guinetn.github.io/lamadison/sitemap.xml
+Sitemap: /lamadison/sitemap.xml
