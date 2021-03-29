@@ -97,7 +97,7 @@ article, .comments, .box { padding: 30px; background: #272726; border-radius: 20
 
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
 
-.site-icon { position: absolute; left: 25%; top: 100%; margin-top: -28px; width: 110px; /* height: 110px; */ padding: -4px; background: #2c2c2c; border-radius: 50%; padding: 10px; border: solid 2px #e7d6b1; }
+.site-icon { position: absolute; left: 16%; top: 100%; margin-top: 13px; width: 110px; /* height: 110px; */ padding: -4px; background: #2c2c2c; border-radius: 50%; padding: 10px; border: solid 2px #e7d6b1; }
 
 @media screen and (max-width: 600px) { .site-icon { width: 50px; height: 50px; margin-top: -25px; } }
 
